@@ -3,7 +3,7 @@
 
 Lets you get all the tracks from an instagram page into a spotify playlist
 
-You need to get your own ARCCloud api key and account, and also add your own spotify details. 
+You need to get your own ARCCloud api key and account, and also add your own spotify details. I think you can use the spotify "app" I created, but not 100% sure. if not, remember to add redirect url (use localhost).  
 
 Flow:
 1. Downloads n videos from instagram
