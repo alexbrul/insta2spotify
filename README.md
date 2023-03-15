@@ -17,3 +17,9 @@ Things that can go wrong:
 - If the instagram page is remix heavy, it might not recognize the song or it could select wrong result in the search. 
 
 
+
+
+Example playlist:
+https://open.spotify.com/playlist/5aDA69bbCZzEbOi1fO8gM5?si=ad26ddc5177b40b0
+
+It has a lot of remixes so I'm surprised, but it managed to get 50 of 150 videos from a dj page. 
